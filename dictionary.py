@@ -36,9 +36,14 @@ urunler = {
 sonuc = urunler
 print(sonuc)
 print(type(urunler))
-
 sonuc = urunler[101]["garanti süresi"]
 print(sonuc)
+
+tutar = urunler[100]["fiyati"][1] +urunler[101]["fiyati"][1]
+print(tutar)
+
+
+
 
 
 

@@ -30,14 +30,7 @@ print("Sonuc", faktoriyel)
 
 
 
-n =int(input("bir sayi giriniz:"))
-i =1
-faktoriyel = 1
 
-while i<n:
-      faktoriyel += i
-      i*= 1
-print("Sonuc", faktoriyel)
 
 
 
