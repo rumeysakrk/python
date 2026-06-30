@@ -16,8 +16,8 @@ print ('Division:' ,a/b)
 #FloorDivision 
 print('Floor Div:' ,a//b) #Bölümü ondalıklı sayı ise tam kısmını yazar.
 
-#Modulo
-print("Modulo:", a%b) #Bölümünden kalan
+#Modül
+print("Modül:", a%b) #Bölümünden kalan
 
 #a to power b
 print('Power:', a**b) #anın bininci kuvveti
